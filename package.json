@@ -3,6 +3,8 @@
   "version": "1.1.0",
   "description": "component library",
   "main": "lib/commonjs/index",
+  "module": "lib/module/index",
+  "types": "lib/typescript/src/index.d.ts",
   "source": "src/index",
   "files": [
     "src",
