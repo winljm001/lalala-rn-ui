@@ -20,6 +20,7 @@
     "react",
     "native"
   ],
+  "repository": "https://github.com/winljm001/lalala-rn-ui",
   "author": "winljm001 <winljm001@gmail.com>",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
