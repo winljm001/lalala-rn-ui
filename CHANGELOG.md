@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/winljm001/lalala-rn-ui/compare/v1.1.0...v1.2.0) (2020-12-17)
+
+
+### Features
+
+* types ([c9d0523](https://github.com/winljm001/lalala-rn-ui/commit/c9d05237ebc1cae88beacd370a0d7f1811364b45))
+
 # 1.1.0 (2020-12-17)
 
 
